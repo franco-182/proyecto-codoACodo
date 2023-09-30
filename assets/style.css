@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to right, #CBFDD9, #98BEFD);
+}
+
+/* HEADER */
+
+.logo {
+    height: 5svh;
+}
+
+h1 {
+    display: inline;
+
+}
+
+.encabezado {
+    position: fixed;
+    background: linear-gradient(to right, #CBFDD9, #98BEFD);
+}
+
+
+nav {
+    /* background: linear-gradient(to right ,#CBFDD9, #98BEFD); */
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav li a:hover {
+    background: linear-gradient(to right, #98BEFD, #CBFDD9);
+}
+
+nav a {
+    text-decoration: none;
+}
+
+
+
+/* MAIN */
+.main {
+    padding-top: 2rem;
+}
+
+.imgperro {
+    margin-top: 4rem;
+    width: 98svw;
+    height: 70svh;
+    border-style: solid;
+}
+
+/* FOOTER */
